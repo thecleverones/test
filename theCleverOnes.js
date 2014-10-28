@@ -1,6 +1,6 @@
 function pageState(state){
 
-	//SPLIT ELEMENTS - (MODULE|STATE-PRIMARYKEYID)
+	//SPLIT ELEMENTS - (MODULE|STATE-PRIMARYKEYID) - HOLD UP!?
 	var elements  = state.split('|');
 	var module    = elements[0];
 	var subModule = elements[1];
