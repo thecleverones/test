@@ -42,6 +42,8 @@ function pageModule(){
 
 }
 
+// dan was here :P
+
 function logError(error){
 
 	$.ajax({
